@@ -1,0 +1,1 @@
+# 51.	Print Pascal’s triangle.
